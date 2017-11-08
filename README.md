@@ -6,4 +6,4 @@ John Baskerville
 
 History Of Type
 ---------------
-[History Of Type 1]()
+[History Of Type 1](https://github.com/CalumDixon/JohnBaskerville/blob/gh-pages/historyoftype1.html)
