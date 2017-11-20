@@ -17,3 +17,5 @@ History Of Type
 [History Of Type 1](https://calumdixon.github.io/JohnBaskerville/historyoftype1.html)
 ---------------
 [History Of Type 2](https://calumdixon.github.io/JohnBaskerville/historyoftype2.html)
+---------------
+[History Of Type 2](https://calumdixon.github.io/JohnBaskerville/historyoftype3.html)
