@@ -18,4 +18,4 @@ History Of Type
 ---------------
 [History Of Type 2](https://calumdixon.github.io/JohnBaskerville/historyoftype2.html)
 ---------------
-[History Of Type 2](https://calumdixon.github.io/JohnBaskerville/historyoftype3.html)
+[History Of Type 3](https://calumdixon.github.io/JohnBaskerville/historyoftype3.html)
