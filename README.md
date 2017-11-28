@@ -11,6 +11,8 @@ John Baskerville
 [Baskerville4](https://calumdixon.github.io/JohnBaskerville/johnbaskerville4.html)
 ----------------
 [Baskerville5](https://calumdixon.github.io/JohnBaskerville/johnbaskerville5.html)
+----------------
+[Baskerville6](https://calumdixon.github.io/JohnBaskerville/johnbaskerville6.html)
 =====================================================================================================================
 History Of Type
 ---------------
@@ -19,3 +21,5 @@ History Of Type
 [History Of Type 2](https://calumdixon.github.io/JohnBaskerville/historyoftype2.html)
 ---------------
 [History Of Type 3](https://calumdixon.github.io/JohnBaskerville/historyoftype3.html)
+---------------
+[History Of Type 4](https://calumdixon.github.io/JohnBaskerville/historyoftype4.html)
