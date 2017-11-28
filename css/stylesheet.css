@@ -32,7 +32,7 @@ h1 {
 
 h2 {
     font-size:3.157em;
-    margin-bottom: 1em;}
+    margin-bottom:0.6em;}
 
 h3 {
     font-size:2.369em;}
@@ -40,7 +40,7 @@ h3 {
 header h2 {
     font-style: italic;
     color:#333;
-    margin-bottom: 1em;}
+    margin-bottom: 0.5em;}
 
 a:link {color:#ee3e80;}
 
@@ -115,7 +115,7 @@ footer hr {
 
 table{
     margin: auto;
-    margin-bottom: 3em;
+    margin-bottom: 2em;
     margin-top: 2em;
     font-size: 1.25em;
     display: table;
