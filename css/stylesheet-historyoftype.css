@@ -14,14 +14,14 @@ body {
     font-family: georgia,'Times New Roman', serif;
     margin:auto;
     background: #f0f0f0;
-    color:#212123;
+    color:#081a40;
     line-height: 1.8em;
 }
 
 /* --- Heading CSS --- */
 
 h1, h2, h3 {
-    color: #7f0f2d;
+    color: #d9ba5f;
     font-weight: normal;
     text-align: center}
 
@@ -53,21 +53,21 @@ h3 {
 
 header h2 {
     font-style: italic;
-    color:#333;
+    color:#081a40;
     margin-bottom: 0.5em;}
 
 /* --- Colour of links --- */
 
-a:link {color:#7f0f2d;}
+a:link {color:#d9ba5f;}
 
 /* --- Colour of links that have been clicked on --- */
 
 a:visited {
-    color:#7f0f2d;}
+    color:#d9ba5f;}
 
 /* --- Colour/decoration of links when hovered over --- */
 
-a:hover {color:#212123;
+a:hover {color:#081a40;
     text-decoration: underline;}
 
 /* --- Colour of links in navagation bar --- */
@@ -81,7 +81,7 @@ nav a:visited {
 
 /* --- Colour/decoration of links in navagation bar when hovered over --- */
 
-nav a:hover {color:#7f0f2d;
+nav a:hover {color:#d9ba5f;
     text-decoration: underline;}
 
 /* --- Removing decoration from links --- */
@@ -96,7 +96,7 @@ nav {
     left:0;
     margin;0;
     width:100%;
-    background-color:#212123;
+    background-color:#081a40;
     padding: 1em 0; }
 
 /* --- CSS for navigation bar's unordered lists --- */
@@ -170,13 +170,13 @@ table{
 }
 
 table, tr {
-    color: #212123;
+    color:#081a40;
 }
 
 th {
     text-transform: uppercase;
     text-align: center;
-    background: #7f0f2d;
+    background: #d9ba5f;
     color:#fff;}
 
 th, td {
@@ -188,7 +188,7 @@ table, td {
 
 caption {
     font-size: 1.25em;
-    color: #7f0f2d;
+    color: #d9ba5f;
     margin-bottom:0.5em;}
 
 
