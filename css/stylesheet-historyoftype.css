@@ -11,7 +11,7 @@
 
 body {
     width:75%;
-    font-family: georgia,'Times New Roman', serif;
+    font-family: 'Open Sans', sans-serif;
     margin:auto;
     background: #f0f0f0;
     color:#081a40;
@@ -21,6 +21,7 @@ body {
 /* --- Heading CSS --- */
 
 h1, h2, h3 {
+    font-family: 'Libre Baskerville', serif;
     color: #d9ba5f;
     font-weight: normal;
     text-align: center}
@@ -28,21 +29,24 @@ h1, h2, h3 {
 /* --- Margin bottom and line height for paragarphs, list items, and block quotes --- */
 
 p,li,blockquote { 
-    margin-bottom: 1.5em;
+    margin-bottom: 2em;
     line-height; 1.5;}
+
+#topsynopsis{
+    text-align: center;}
 
 /* --- Font size and margins for heading 1 --- */
 
 h1 {
-    font-size:5.61em;
+    font-size:5.063em;
     margin-top: 1em;
     margin-bottom: 0.2em;}
 
 /* --- Font size and margins for heading 2 --- */
 
 h2 {
-    font-size:3.157em;
-    margin-bottom:0.6em;}
+    font-size:3.375em;
+    margin-bottom: 2em;}
 
 /* --- Font size for heading 3 --- */
 
@@ -86,8 +90,9 @@ nav a:hover {color:#d9ba5f;
 
 /* --- Removing decoration from links --- */
 
-a {text-decoration: none;}
-
+a {text-decoration: none;
+    font-family: Libre Baskerville, serif;}
+    
 /* --- Navigation bar CSS --- */
 
 nav { 
@@ -97,20 +102,21 @@ nav {
     margin;0;
     width:100%;
     background-color:#081a40;
-    padding: 1em 0; }
+    padding: 1em 0;
+    font-family: Libre Baskerville, serif;}
 
 /* --- CSS for navigation bar's unordered lists --- */
 
 nav ul {
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: 4px;}
+    letter-spacing: 2px;}
 
 /* --- CSS for navigation bar's unordered list list items --- */
 
 nav ul li {
     display: inline;
-    margin:20px;}
+    margin:10px;}
 
 /* --- CSS for blockquotes --- */
 
@@ -167,6 +173,7 @@ table{
     display: table;
     border-collapse: collapse;
     border-spacing: 2px;
+    font-family: Libre Baskerville, serif;
 }
 
 table, tr {
@@ -176,11 +183,12 @@ table, tr {
 th {
     text-transform: uppercase;
     text-align: center;
-    background: #d9ba5f;
+    background: #081a40;
     color:#fff;}
 
 th, td {
-    padding: 0.7em;}
+    padding: 0.7em;
+    text-align: left;}
 
 table, td {
     background:#ddd;
@@ -188,11 +196,12 @@ table, td {
 
 caption {
     font-size: 1.25em;
-    color: #d9ba5f;
+    color: #081a40;
     margin-bottom:0.5em;}
 
+#bottom-link {
+    margin-top:2em;}
 
-    
     
 
 
