@@ -28,6 +28,18 @@ h1, h2, h3 {
 
 /* --- CSS for paragarphs, list items, and block quotes --- */
 
+blockquote {
+    padding: 0em 4em 0em 4em;
+    font-size: 1.5em;
+    line-height:1.4em;
+    color:#777;}
+
+/* --- CSS for blockquotes citations --- */
+
+blockquote cite {
+    font-size:0.75em;
+}
+
 p,li,blockquote { 
     margin-bottom: 2em;
     line-height; 1.5;}
@@ -128,20 +140,6 @@ nav ul {
 nav ul li {
     display: inline;
     margin:10px;}
-
-/* --- CSS for blockquotes --- */
-
-blockquote {
-    padding: 0em 4em 0em 4em;
-    font-size: 1.5em;
-    line-height:1.4em;
-    color:#777;}
-
-/* --- CSS for blockquotes citations --- */
-
-blockquote cite {
-    font-size:0.75em;
-}
 
 /* --- CSS for images --- */
 

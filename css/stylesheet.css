@@ -33,8 +33,18 @@ p,li{
     font-family: Raleway,'Arial', sans-serif;}
 
 #topsynopsis{
-    text-align: center;}
+    text-align: center;
+    margin-bottom:6em}
 
+blockquote {
+    padding: 0em 3em 0em 3em;
+    font-size: 1.25em;
+    line-height:1.4em;
+    color:#777;}
+
+blockquote cite {
+    font-size:0.75em;
+}
 
 blockquote{ 
     margin-bottom: 1.5em;
@@ -48,20 +58,21 @@ blockquote p {
     text-indent:-0.3em;}
 
 cite {
-    display: block;}
+    display: block;
+    margin-top: 1em;}
 
 
 /* --- Font size and margins for heading 1 --- */
 
 h1 {
-    font-size:5.61em;
-    margin-top: 1em;
-    margin-bottom: 0.2em;}
+    font-size:5.063em;
+    margin-top: 1.5em;
+    margin-bottom: 0.6em;;}
 
 /* --- Font size and margins for heading 2 --- */
 
 h2 {
-    font-size:3.157em;
+    font-size:3.375em;
     margin-bottom:0.6em;}
 
 /* --- Font size for heading 3 --- */
@@ -74,7 +85,8 @@ h3 {
 header h2 {
     font-style: italic;
     color:#22424b;
-    margin-bottom: 1em;}
+    margin-bottom: 3em;
+    line-height: 1.2em;}
 
 /* --- Colour of links --- */
 
@@ -132,20 +144,6 @@ nav ul {
 nav ul li {
     display: inline;
     margin:30px;}
-
-/* --- CSS for blockquotes citations --- */
-
-blockquote {
-    padding: 0em 3em 0em 3em;
-    font-size: 1.25em;
-    line-height:1.4em;
-    color:#777;}
-
-/* --- CSS for blockquotes citations --- */
-
-blockquote cite {
-    font-size:0.75em;
-}
 
 /* --- CSS for images --- */
 
