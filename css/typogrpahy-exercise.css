@@ -17,10 +17,6 @@ body{
     font-weight: 400;
 }
 
-/* -- Colour of Hr bars --*/
-
-color:deeppink;
-}
 
 /* -- Base font for all elements in version 1 --*/
 
@@ -53,11 +49,21 @@ color:deeppink;
 /* -- paragraph CSS for version 1 --*/
 
 #version1 p {
-    margin-bottom:2em;
     line-height: 1.8em;}
 
 #version1p1 {
-    font-size:1.7em;}
+    font-size:2.2em;
+    line-height: 1.4em;
+    margin-bottom: 2em;}
+
+#version1p2 {
+    font-size:1.7em;
+    margin-bottom: 2em;
+    margin-top: 3em;}
+
+#version1p3 {
+    font-size:1.7em;
+    margin-bottom: 2em;}
 
 /* -- Drop cap CSS for version 1 --*/
 
@@ -70,23 +76,99 @@ color:deeppink;
 /* -- Block Quote CSS for version 1 --*/
 
 #version1blockquote {
-    font-size: 1.8em;
+    font-size: 2.3em;
     line-height:1.4em;
     color:dimgray;
     font-style: italic;
 }
 
+#version1blockquote {
+    hanging-punctuation:first;
+    text-indent:-0.3em;}
+
 /* -- Block Quote citation CSS for version 1 --*/
 
 #version1 cite {
-    font-size:.8em;
+    font-size:.7em;
     display: block;
     margin-top: 1em;
     margin-bottom: 4em;}
 
-#version1blockquote p {
+
+/* -- Base font for all elements in version 3 --*/
+
+#version2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* -- heading CSS including font styles, sizes and margins --*/
+
+#version2h3{
+    font-size: 2em;
+    font-weight: 400;
+    margin-top:2em;
+    margin-bottom: 0.5em;
+}
+
+#version2h1{
+    font-size: 6.854em;
+    font-weight:400;
+    margin-bottom:0.2em;
+}
+
+#version2h2{
+    font-size: 3em;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom:1.5em;
+}
+
+/* -- paragraph CSS for version 3 --*/
+
+#version2 p {
+    line-height: 1.8em;
+    font-family: 'Open Sans', sans-serif;}
+
+#version2p3 {
+    text-indent: 2em;
+    margin-bottom: 2em;
+    font-size:1.5em}
+
+#version2p2 {
+    font-size:1.35em}
+
+#version2p1 {
+    font-size:1.7em;
+    line-height: 1.4em;
+    margin-bottom:1.4em;}
+
+#namespan {
+    text-transform: capitalize;
+}
+
+/* -- Block Quote CSS for version 3 --*/
+
+#version2blockquote {
+    font-size: 1.7em;
+    line-height:1.4em;
+    color:gray;
+    font-style: italic;
+    margin-bottom: 3em;
+}
+
+#version2blockquote {
     hanging-punctuation:first;
-    text-indent:-0.5em;}
+    text-indent:-0.3em;}
+
+/* -- Block Quote citation CSS for version 3 --*/
+
+#version2 cite {
+    font-size:1em;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 2em;}
+
+
 
 /* -- Base font for all elements in version 3 --*/
 
@@ -120,25 +202,36 @@ color:deeppink;
 
 #version3 p {
     margin-bottom:2em;
-    line-height: 1.8em;}
+    line-height: 1.8em;
+    font-family: 'Open Sans', sans-serif;}
 
 #version3p1 {
-    font-size:1.4em;}
+    font-size:1.6em;}
+
+#version3p2 {
+    font-size:1.35em;}
+
+#version3p3 {
+    font-size:1.35em;}
 
 /* -- Block Quote CSS for version 3 --*/
 
 #version3blockquote {
-    font-size: 1.8em;
+    font-size: 2em;
     line-height:1.4em;
     color:gray;
     font-style: italic;
     margin-bottom: 4em;
 }
 
+#version3blockquote {
+    hanging-punctuation:first;
+    text-indent:-0.3em;}
+
 /* -- Block Quote citation CSS for version 3 --*/
 
 #version3 cite {
-    font-size:.8em;
+    font-size:.6em;
     display: block;
     margin-top: 1em;
     margin-bottom: 2em;}
