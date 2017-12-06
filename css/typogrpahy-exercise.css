@@ -1,0 +1,145 @@
+
+/* ---- CSS RESET ---- */
+* {
+    padding: 0;
+    margin: 0;
+    font-size:100%;
+    line-height: 1em;
+}
+
+/* -- Body CSS for all versions -- */
+
+body{
+    width:70%;
+    margin:auto;
+    line-height: 1.8em;
+    font-style: normal;
+    font-weight: 400;
+}
+
+/* -- Colour of Hr bars --*/
+
+color:deeppink;
+}
+
+/* -- Base font for all elements in version 1 --*/
+
+#version1 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+/* -- heading CSS including font styles, sizes and margins --*/
+
+#version1h3{
+    font-size: 2.2em;
+    font-weight: 400;
+    margin-top:2em;
+    margin-bottom: 0.2em;
+}
+
+#version1h1{
+    font-size: 6.854em;
+    font-weight:400;
+    margin-bottom:0.2em;
+}
+
+#version1h2{
+    font-size: 3em;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom:1.5em;
+}
+
+/* -- paragraph CSS for version 1 --*/
+
+#version1 p {
+    margin-bottom:2em;
+    line-height: 1.8em;}
+
+#version1p1 {
+    font-size:1.7em;}
+
+/* -- Drop cap CSS for version 1 --*/
+
+#baskervillespan {
+    font-size: 5em;
+    line-height: 50%;
+    float:left;
+}
+
+/* -- Block Quote CSS for version 1 --*/
+
+#version1blockquote {
+    font-size: 1.8em;
+    line-height:1.4em;
+    color:dimgray;
+    font-style: italic;
+}
+
+/* -- Block Quote citation CSS for version 1 --*/
+
+#version1 cite {
+    font-size:.8em;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 4em;}
+
+#version1blockquote p {
+    hanging-punctuation:first;
+    text-indent:-0.5em;}
+
+/* -- Base font for all elements in version 3 --*/
+
+#version3 {
+    font-family: 'Arvo', serif;
+}
+
+/* -- heading CSS including font styles, sizes and margins --*/
+
+#version3h3{
+    font-size: 2.2em;
+    font-weight: 400;
+    margin-top:2em;
+    margin-bottom: 0.5em;
+}
+
+#version3h1{
+    font-size: 6.854em;
+    font-weight:400;
+    margin-bottom:0.2em;
+}
+
+#version3h2{
+    font-size: 3em;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom:1.5em;
+}
+
+/* -- paragraph CSS for version 3 --*/
+
+#version3 p {
+    margin-bottom:2em;
+    line-height: 1.8em;}
+
+#version3p1 {
+    font-size:1.4em;}
+
+/* -- Block Quote CSS for version 3 --*/
+
+#version3blockquote {
+    font-size: 1.8em;
+    line-height:1.4em;
+    color:gray;
+    font-style: italic;
+    margin-bottom: 4em;
+}
+
+/* -- Block Quote citation CSS for version 3 --*/
+
+#version3 cite {
+    font-size:.8em;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 2em;}
+
