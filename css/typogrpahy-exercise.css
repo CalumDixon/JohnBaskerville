@@ -1,11 +1,11 @@
 
 /* ---- CSS RESET ---- */
+
 * {
     padding: 0;
     margin: 0;
     font-size:100%;
-    line-height: 1em;
-}
+    line-height: 1em;}
 
 /* -- Body CSS for all versions -- */
 
@@ -14,15 +14,12 @@ body{
     margin:auto;
     line-height: 1.8em;
     font-style: normal;
-    font-weight: 400;
-}
-
+    font-weight: 400;}
 
 /* -- Base font for all elements in version 1 --*/
 
 #version1 {
-    font-family: 'Libre Baskerville', serif;
-}
+    font-family: 'Libre Baskerville', serif;}
 
 /* -- heading CSS including font styles, sizes and margins --*/
 
@@ -30,21 +27,18 @@ body{
     font-size: 2.2em;
     font-weight: 400;
     margin-top:2em;
-    margin-bottom: 0.2em;
-}
+    margin-bottom: 0.2em;}
 
 #version1h1{
     font-size: 6.854em;
     font-weight:400;
-    margin-bottom:0.2em;
-}
+    margin-bottom:0.2em;}
 
 #version1h2{
     font-size: 3em;
     font-style: italic;
     font-weight: 400;
-    margin-bottom:1.5em;
-}
+    margin-bottom:1.5em;}
 
 /* -- paragraph CSS for version 1 --*/
 
@@ -70,8 +64,7 @@ body{
 #baskervillespan {
     font-size: 5em;
     line-height: 50%;
-    float:left;
-}
+    float:left;}
 
 /* -- Block Quote CSS for version 1 --*/
 
@@ -79,8 +72,7 @@ body{
     font-size: 2.3em;
     line-height:1.4em;
     color:dimgray;
-    font-style: italic;
-}
+    font-style: italic;}
 
 #version1blockquote {
     hanging-punctuation:first;
@@ -99,8 +91,7 @@ body{
 /* -- Base font for all elements in version 3 --*/
 
 #version2 {
-    font-family: 'Open Sans', sans-serif;
-}
+    font-family: 'Open Sans', sans-serif;}
 
 /* -- heading CSS including font styles, sizes and margins --*/
 
@@ -108,21 +99,18 @@ body{
     font-size: 2em;
     font-weight: 400;
     margin-top:2em;
-    margin-bottom: 0.5em;
-}
+    margin-bottom: 0.5em;}
 
 #version2h1{
     font-size: 6.854em;
     font-weight:400;
-    margin-bottom:0.2em;
-}
+    margin-bottom:0.2em;}
 
 #version2h2{
     font-size: 3em;
     font-style: italic;
     font-weight: 400;
-    margin-bottom:1.5em;
-}
+    margin-bottom:1.5em;}
 
 /* -- paragraph CSS for version 3 --*/
 
@@ -144,8 +132,7 @@ body{
     margin-bottom:1.4em;}
 
 #namespan {
-    text-transform: capitalize;
-}
+    text-transform: capitalize;}
 
 /* -- Block Quote CSS for version 3 --*/
 
@@ -154,8 +141,7 @@ body{
     line-height:1.4em;
     color:gray;
     font-style: italic;
-    margin-bottom: 1em;
-}
+    margin-bottom: 1em;}
 
 #version2blockquote {
     hanging-punctuation:first;
@@ -168,15 +154,14 @@ body{
     display: block;
     margin-top: 1em;
     margin-bottom: 5em;
-    color:gray}
+    color:gray;}
 
 
 
 /* -- Base font for all elements in version 3 --*/
 
 #version3 {
-    font-family: 'Arvo', serif;
-}
+    font-family: 'Arvo', serif;}
 
 /* -- heading CSS including font styles, sizes and margins --*/
 
@@ -184,21 +169,18 @@ body{
     font-size: 2.2em;
     font-weight: 400;
     margin-top:2em;
-    margin-bottom: 0.5em;
-}
+    margin-bottom: 0.5em;}
 
 #version3h1{
     font-size: 6.854em;
     font-weight:400;
-    margin-bottom:0.2em;
-}
+    margin-bottom:0.2em;}
 
 #version3h2{
     font-size: 3em;
     font-style: italic;
     font-weight: 400;
-    margin-bottom:1.5em;
-}
+    margin-bottom:1.5em;}
 
 /* -- paragraph CSS for version 3 --*/
 
@@ -223,8 +205,7 @@ body{
     line-height:1.4em;
     color:gray;
     font-style: italic;
-    margin-bottom: 1em;
-}
+    margin-bottom: 1em;}
 
 #version3blockquote {
     hanging-punctuation:first;
@@ -246,9 +227,7 @@ hr {
 }
 
 blockquote::before{
-    content:"“";
-}
+    content:"“";}
 
 blockquote::after{
-    content:"”";
-}
+    content:"”";}
