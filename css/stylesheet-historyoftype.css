@@ -52,6 +52,7 @@ cite {
 /* --- CSS adjustments for short sentance that describes what will be cover on the web page --- */
 
 #topsynopsis{
+    margin:0 auto;
     text-align: center;
     margin-bottom:16em;
     font-size:1.5em;
@@ -239,7 +240,7 @@ header h2 {
     margin-bottom:4em;}
     
 p {
-    width:85%;}
+    width:100%;}
     
 }
 
