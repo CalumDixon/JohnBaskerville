@@ -32,6 +32,6 @@
 
 ## Other Exercises
 
-### [Markdown Exercise](https://calumdixon.github.io/JohnBaskerville/markdown-exercise.md)
+### [Markdown Exercise](https://github.com/CalumDixon/JohnBaskerville/blob/gh-pages/markdown-exercise.md)
 
 ### [Typography Exercise](https://calumdixon.github.io/JohnBaskerville/typography-exercise.html)

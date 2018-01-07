@@ -1,8 +1,8 @@
-##**Ireland's rugged coast yields**
+## **Ireland's rugged coast yields**
 
-#**Priceless Relics of the Spanish Armada**
+# **Priceless Relics of the Spanish Armada**
 
-###**by Robert Sténuit**
+### **by Robert Sténuit**
 
 _Illustrations by National Geographic_
 
