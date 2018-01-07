@@ -275,10 +275,10 @@ body{
     width:100%;}
     
 header {
-    width:100%;}
+    width:85%;}
     
 article {
-    width:100%;
+    width:85%;
     margin:0 auto;}
     
 /* --- Font size for heading 1 --- */       
@@ -332,7 +332,7 @@ nav ul li {
 /* --- Applying a width to navigation bar element list to stop make site more visually appealing --- */    
     
 nav ul {
-    width:85%;}
+    width:100%;}
 
 }
 
