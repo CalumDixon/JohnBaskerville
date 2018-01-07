@@ -237,7 +237,8 @@ header h2 {
     
 #topsynopsis {
     font-size: 1.3em;
-    margin-bottom:4em;}
+    margin-bottom:4em;
+    width:100%;}
     
 p {
     width:100%;}
