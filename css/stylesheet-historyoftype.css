@@ -238,6 +238,9 @@ header h2 {
     font-size: 1.3em;
     margin-bottom:4em;}
     
+body p {
+    width:85%;}
+    
 }
 
 /* --- CSS explaining what should change when screen width is 1280px or lower --- */
@@ -272,7 +275,7 @@ header h2 {
 /* --- Content container expands to take up 85% of the screen --- */    
     
 body{
-    width:85%;}
+    width:100%;}
     
 header {
     width:85%;}
